@@ -368,6 +368,8 @@
         
     <module>org.openhab.binding.smaenergymeter</module>
         
+    <module>org.openhab.binding.smartfridgebinding</module>
+
     <module>org.openhab.binding.smartmeter</module>
         
     <module>org.openhab.binding.snmp</module>
@@ -558,7 +560,7 @@
   <properties>
         
     <dep.noembedding/>
-      
+
   </properties>
     
   <build>
