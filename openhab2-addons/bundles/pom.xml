@@ -80,6 +80,8 @@
     <module>org.openhab.binding.amazondashbutton</module>
         
     <module>org.openhab.binding.amazonechocontrol</module>
+
+    <module>org.openhab.binding.amazonsmartplug</module>
         
     <module>org.openhab.binding.ambientweather</module>
         
@@ -366,7 +368,9 @@
     <module>org.openhab.binding.sleepiq</module>
         
     <module>org.openhab.binding.smaenergymeter</module>
-        
+
+    <module>org.openhab.binding.smartfridgebinding</module>
+
     <module>org.openhab.binding.smartmeter</module>
         
     <module>org.openhab.binding.snmp</module>
@@ -418,6 +422,7 @@
     <module>org.openhab.binding.vitotronic</module>
         
     <module>org.openhab.binding.volvooncall</module>
+
     <module>org.openhab.binding.wash_dryer_binding</module>
         
     <module>org.openhab.binding.weatherunderground</module>
@@ -558,7 +563,6 @@
   <properties>
         
     <dep.noembedding/>
-      
   </properties>
     
   <build>
