@@ -68,6 +68,7 @@
     <module>org.openhab.binding.denonmarantz</module>
     <module>org.openhab.binding.digiplex</module>
     <module>org.openhab.binding.digitalstrom</module>
+    <module>org.openhab.binding.dishwasher_isd</module>
     <module>org.openhab.binding.dlinksmarthome</module>
     <module>org.openhab.binding.dmx</module>
     <module>org.openhab.binding.dscalarm</module>
@@ -284,7 +285,7 @@
   </dependencies>
 
   <properties>
-    <dep.noembedding></dep.noembedding>
+    <dep.noembedding/>
   </properties>
 
   <build>

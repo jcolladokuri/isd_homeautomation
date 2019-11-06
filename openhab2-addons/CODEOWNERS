@@ -33,6 +33,7 @@
 /bundles/org.openhab.binding.denonmarantz/ @jwveldhuis
 /bundles/org.openhab.binding.digiplex/ @rmichalak
 /bundles/org.openhab.binding.digitalstrom/ @MichaelOchel @msiegele
+/bundles/org.openhab.binding.dishwasher_isd/ @nurainiaguse
 /bundles/org.openhab.binding.dlinksmarthome/ @MikeJMajor
 /bundles/org.openhab.binding.dmx/ @J-N-K
 /bundles/org.openhab.binding.dscalarm/ @RSStephens
