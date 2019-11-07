@@ -389,6 +389,7 @@
     <module>org.openhab.binding.spotify</module>
         
     <module>org.openhab.binding.squeezebox</module>
+    <module>org.openhab.binding.switchoccupancybinding</module>
         
     <module>org.openhab.binding.synopanalyzer</module>
         
